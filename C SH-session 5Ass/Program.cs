@@ -119,3 +119,23 @@
 //    }
 //}
 #endregion
+
+#region Q7 
+//using System;
+//enum Genre
+//{
+//    Fiction,
+//    NonFiction,
+//    Science
+//}
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        Genre genre = Genre.Fiction;
+
+//        Console.WriteLine(genre.ToString());
+//    }
+//}
+#endregion

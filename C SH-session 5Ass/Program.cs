@@ -29,3 +29,22 @@
 //    }
 //}
 #endregion
+
+#region Q3
+//using System.Reflection;
+
+//class Book
+//{
+//    public string Title;
+//}
+//class program
+//{
+//    static void Main()
+//    {
+//        Book book = new Book();
+//        book.Title = "Barbie";
+//    }
+//}
+#endregion
+
+#region Q4

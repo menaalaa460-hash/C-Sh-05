@@ -48,3 +48,29 @@
 #endregion
 
 #region Q4
+//using System;
+
+//enum Genre
+//{
+//    Fiction,
+//    NonFiction,
+//    Science
+//}
+
+//class Book
+//{
+//    public Genre Genre;
+//}
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        Book book = new Book();
+
+//        book.Genre = Genre.Science;
+
+//        Console.WriteLine(book.Genre);
+//    }
+//}
+#endregion

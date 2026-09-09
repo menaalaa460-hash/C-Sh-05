@@ -161,3 +161,29 @@
 //    }
 //}
 #endregion
+
+#region Q9
+//using System;
+//enum Genre
+//{
+//    Fiction,
+//    NonFiction,
+//    Science
+//}
+//class Program
+//{
+//    static void Main()
+//    {
+//        string genreText = "Mystery";
+
+//        if (Enum.TryParse(genreText, out Genre genre))
+//        {
+//            Console.WriteLine(genre);
+//        }
+//        else
+//        {
+//            Console.WriteLine("Unknown genre");
+//        }
+//    }
+//}
+#endregion

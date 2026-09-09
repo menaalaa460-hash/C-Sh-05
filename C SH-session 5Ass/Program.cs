@@ -74,3 +74,27 @@
 //    }
 //}
 #endregion
+
+#region Q5
+//using System;
+//enum Genre
+//{
+//    Fiction,
+//    NonFiction,
+//    Science
+//}
+//class Book
+//{
+//    public Genre Genre;
+//}
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        Console.WriteLine((int)Genre.Fiction);
+//        Console.WriteLine((int)Genre.NonFiction);
+//        Console.WriteLine((int)Genre.Science);
+//    }
+//}
+#endregion
